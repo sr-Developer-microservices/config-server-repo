@@ -1,2 +1,6 @@
 server:
   port: 7000
+  
+bar: spam
+foo: from foo development
+democonfigclient.message: hello from dev profile
